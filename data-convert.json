@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "product": "baju",
+      "price": 100000,
+      "quantity": 10,
+      "category": "pakaian",
+      "status": "ready",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fpakaian%2Fbaju%2F&psig=AOvVaw",
+      "date": "2021-01-01"
+    },
+    {
+      "product": "celana",
+      "price": 150000,
+      "quantity": 5,
+      "category": "pakaian",
+      "status": "ready",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fpakaian%2Fcelana%2F&psig=AOvVaw",
+      "date": "2021-01-01"
+    },
+    {
+      "product": "sepatu",
+      "price": 200000,
+      "quantity": 3,
+      "category": "pakaian",
+      "status": "ready",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fpakaian%2Fsepatu%2F&psig=AOvVaw",
+      "date": "2021-01-01"
+    }
+  ]
+}
